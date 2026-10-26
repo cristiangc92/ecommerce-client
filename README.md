@@ -45,7 +45,7 @@ Plataforma de comercio electrónico de nicho desarrollada con el stack **PERN** 
 
 ### Backend (`ecommerce-api`)
 ```bash
-git clone [https://github.com/cristiangc92/ecommerce-api.git](https://github.com/cristiangc92/ecommerce-api.git)
+git clone https://github.com/cristiangc92/ecommerce-api.git
 cd ecommerce-api
 npm install
 # Configurar .env con PORT, DATABASE_URL y JWT_SECRET
@@ -54,7 +54,7 @@ npm run dev
 
 ### Frontend (ecommerce-client)
 ```bash
-git clone [https://github.com/cristiangc92/ecommerce-client.git](https://github.com/cristiangc92/ecommerce-client.git)
+git clone https://github.com/cristiangc92/ecommerce-client.git
 cd ecommerce-client
 npm install
 # Configurar .env con VITE_API_URL
