@@ -2,8 +2,8 @@
 
 Plataforma de comercio electrónico de nicho desarrollada con el stack **PERN** (PostgreSQL, Express, React, Node.js) y **Vite**. Cuenta con autenticación por roles, gestión de carrito persistente y panel de administración para carga de catálogo.
 
-🚀 **Demo en vivo:** [Link de Vercel](https://tu-app-ecommerce.vercel.app)  
-🔌 **API REST:** [Link de Railway](https://tu-backend-ecommerce.up.railway.app/api/health)
+🚀 **Demo en vivo:** [Link de Vercel](https://ecommerce-client-gold.vercel.app/)  
+🔌 **API REST:** [Link de Railway](https://ecommerce-api-production-0ed5.up.railway.app/api/prueba)
 
 ---
 
@@ -45,7 +45,7 @@ Plataforma de comercio electrónico de nicho desarrollada con el stack **PERN** 
 
 ### Backend (`ecommerce-api`)
 ```bash
-git clone [https://github.com/TU_USUARIO/ecommerce-api.git](https://github.com/TU_USUARIO/ecommerce-api.git)
+git clone [https://github.com/cristiangc92/ecommerce-api.git](https://github.com/cristiangc92/ecommerce-api.git)
 cd ecommerce-api
 npm install
 # Configurar .env con PORT, DATABASE_URL y JWT_SECRET
@@ -54,7 +54,7 @@ npm run dev
 
 ### Frontend (ecommerce-client)
 ```bash
-git clone [https://github.com/TU_USUARIO/ecommerce-client.git](https://github.com/TU_USUARIO/ecommerce-client.git)
+git clone [https://github.com/cristiangc92/ecommerce-client.git](https://github.com/cristiangc92/ecommerce-client.git)
 cd ecommerce-client
 npm install
 # Configurar .env con VITE_API_URL
